@@ -357,6 +357,10 @@ p {
 	margin-bottom: 10px;
 	text-transform: uppercase;
 }
+#service img {
+	width: 300px;
+	height: 300px;
+}
 /* end service section */
 
 /* Projects section */
@@ -620,7 +624,7 @@ p {
 	#services .service-bottom .service-item {
 		flex-basis: 45%;
 		margin: 2.5%;
-		text-align: left;
+		text-align: left;  
 		height: 300px;
 	}
 	@keyframes text_reveal_name {
