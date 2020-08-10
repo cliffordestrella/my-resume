@@ -30,7 +30,7 @@ img{
 
 p {
 	color: black;
-	font-size: 2em;
+	font-size: 1.5em;
 	margin-top: 5px;
 	line-height: 1.5em;
 	font-weight: 300;
@@ -38,7 +38,7 @@ p {
 }
 
 .brand h1 {
-	font-size: 3em;
+	font-size: 2.5em;
 	text-transform: uppercase;
 	color: white;
 }
@@ -47,7 +47,7 @@ p {
 }
 
 .section-title {
-	font-size: 5em;
+	font-size: 4em;
 	font-weight: 300;
 	color: black;
 	margin-bottom: 10px;
@@ -61,11 +61,11 @@ p {
 
 .cta {
     display: inline-block;
-    padding: 10px 30px;
+    padding: 10px 10px;
     color: white;
     background-color: transparent;
     border: 2px solid crimson;
-    font-size: 2em;
+    font-size: 1.3em;
     text-transform: uppercase;
     letter-spacing: .1em;
     margin-top: 30px;
@@ -121,7 +121,7 @@ p {
 	left: 0%;
 }
 #header .nav-list ul a {
-	font-size: 2.5em;
+	font-size: 2em;
 	font-weight: 500;
 	letter-spacing: .2em;
 	text-decoration: none;
@@ -137,7 +137,7 @@ p {
 	left: 50%;
 	transform: translate(-50%, -50%) scale(0);
 	color: rgba(240, 248, 255, 0.021);
-	font-size: 13em;
+	font-size: 10em;
 	letter-spacing: 50px;
 	z-index: -1;
 	transition: .3s ease letter-spacing;
@@ -234,7 +234,7 @@ p {
 #hero h1 {
     display: block;
 	width: fit-content;
-    font-size: 3em;
+    font-size: 2.5em;
     font-weight: 300;
     /* color: crimson; */
     position: relative;
@@ -297,7 +297,7 @@ p {
     color: crimson;
 }
 #services .service-top p {
-    font-size: 2em;
+    font-size: 1.3em;
     margin-top: 5px;
     line-height: 2em;
     font-weight: 300;
@@ -352,7 +352,7 @@ p {
 	margin-bottom: 20px;
 }
 #services .service-item h2 {
-	font-size: 2.5em;
+	font-size: 2em;
 	color: white;
 	margin-bottom: 10px;
 	text-transform: uppercase;
@@ -398,11 +398,11 @@ p {
 	color: white;
 }
 #projects .project-info h1 {
-	font-size: 4em;
+	font-size: 3em;
 	font-weight: 500;
 }
 #projects .project-info h2 {
-	font-size: 2.5em;
+	font-size: 2em;
 	font-weight: 500;
 	margin-top: 10px;
 }
@@ -449,7 +449,7 @@ p {
 	width: 100%;
 }
 #about .col-right h2 {
-	font-size: 2.5em;
+	font-size: 2em;
 	font-weight: 500;
 	letter-spacing: .2em;
 	margin-bottom: 10px;
@@ -596,7 +596,7 @@ p {
     100%{
         color: white;
         font-weight: 700;
-        font-size: 7em;
+        font-size: 6em;
     }
 }
 /* end keyframes */
@@ -604,16 +604,16 @@ p {
 /* Media Query For Tablet */
 @media only screen and (min-width: 768px) {
 	.cta {
-		font-size: 2.5em;
-		padding: 20px 60px;
+		font-size: 2em;
+		padding: 20px 20px;
 	}
 	h1.section-title {
-		font-size: 6em;
+		font-size: 5em;
 	}
 
 	/* Hero */
 	#hero h1 {
-		font-size: 5em;
+		font-size: 4em;
 	}
 	/* End Hero */
 
@@ -628,7 +628,7 @@ p {
 		100%{
 			color: white;
 			font-weight: 700;
-			font-size: 11em;
+			font-size: 8em;
 		}
 	}
 	/* End Services Section */
